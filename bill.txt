@@ -1,0 +1,19 @@
+Date & Time: 2024-06-17 08:52:01.190922
+You ordered: bread
+Your total bill before discount and GST is 40
+Discount: 4.0
+GST: 6.4799999999999995
+Your total bill is 42.48
+Date & Time: 2024-06-17 08:52:28.995096
+You ordered: ketchup
+Your total bill before discount and GST is 45
+Discount: 4.5
+GST: 7.29
+Your total bill is 47.79
+Date & Time: 2024-06-17 08:53:00.757016
+You ordered: maida
+Your total bill before discount and GST is 40
+Discount: 4.0
+GST: 6.4799999999999995
+Your total bill is 42.48
+Your final total bill for all items is: 132.75
